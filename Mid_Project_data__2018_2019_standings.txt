@@ -1,0 +1,31 @@
+Team,Overall
+Milwaukee Bucks,60
+Toronto Raptors,58
+Golden State Warriors,57
+Denver Nuggets,54
+Houston Rockets,53
+Portland Trail Blazers,53
+Philadelphia 76ers,51
+Utah Jazz,50
+Boston Celtics,49
+Oklahoma City Thunder,49
+Indiana Pacers,48
+Los Angeles Clippers,48
+San Antonio Spurs,48
+Brooklyn Nets,42
+Orlando Magic,42
+Detroit Pistons,41
+Charlotte Hornets,39
+Miami Heat,39
+Sacramento Kings,39
+Los Angeles Lakers,37
+Minnesota Timberwolves,36
+Dallas Mavericks,33
+Memphis Grizzlies,33
+New Orleans Pelicans,33
+Washington Wizards,32
+Atlanta Hawks,29
+Chicago Bulls,22
+Cleveland Cavaliers,19
+Phoenix Suns,19
+New York Knicks,17
